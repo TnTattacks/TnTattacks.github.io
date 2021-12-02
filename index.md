@@ -10,7 +10,7 @@ tntmiscs: JncpN2t1Gzg
 
 ### Reference
 ```
-Doan, B.G., Xue, M., Ma, S., Abbasnejad, E. and Ranasinghe, D.C., 2021. TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems. arXiv preprint arXiv:2111.09999.
+Doan, Bao Gia, Minhui Xue, Shiqing Ma, Ehsan Abbasnejad, and Damith C. Ranasinghe. "TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems." arXiv preprint arXiv:2111.09999 (2021).
 ```
 
 Link to the research paper: [TnTattacks](https://arxiv.org/abs/2111.09999) 
