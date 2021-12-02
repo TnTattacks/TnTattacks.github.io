@@ -11,6 +11,14 @@ tntmiscs: JncpN2t1Gzg
 # Physical World Deployment Demonstration Videos
 
 Link to the research paper: [TnTattacks](https://arxiv.org/abs/2111.09999) 
+```
+@article{doan2021tnt,
+  title={TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems},
+  author={Doan, Bao Gia and Xue, Minhui and Ma, Shiqing and Abbasnejad, Ehsan and Ranasinghe, Damith C},
+  journal={arXiv preprint arXiv:2111.09999},
+  year={2021}
+}
+```
 
 ## Summary
 
