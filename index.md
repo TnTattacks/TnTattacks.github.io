@@ -15,7 +15,7 @@ Doan, Bao Gia, Minhui Xue, Shiqing Ma, Ehsan Abbasnejad, and Damith C. Ranasingh
 
 Link to the research paper: [TnTattacks](https://arxiv.org/abs/2111.09999) 
 
-### Bibtex:
+### Bibtex
 ```
 @article{doan2021tnt,
   title={TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems},
