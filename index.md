@@ -8,9 +8,14 @@ tntrobust: q_wTmIyoqmY
 tntmiscs: JncpN2t1Gzg
 ---
 
-# Physical World Deployment Demonstration Videos
+### Reference
+```
+Doan, B.G., Xue, M., Ma, S., Abbasnejad, E. and Ranasinghe, D.C., 2021. TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems. arXiv preprint arXiv:2111.09999.
+```
 
 Link to the research paper: [TnTattacks](https://arxiv.org/abs/2111.09999) 
+
+### Bibtex:
 ```
 @article{doan2021tnt,
   title={TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems},
@@ -20,6 +25,7 @@ Link to the research paper: [TnTattacks](https://arxiv.org/abs/2111.09999)
 }
 ```
 
+# Physical World Deployment Demonstration Videos
 ## Summary
 
 ### Targeted Attacks on the PubFig Classification Task
