@@ -10,6 +10,8 @@ tntmiscs: JncpN2t1Gzg
 
 # Physical World Deployment Demonstration Videos
 
+Link to the research paper: [TnTattacks](https://arxiv.org/abs/2111.09999) 
+
 ## Summary
 
 ### Targeted Attacks on the PubFig Classification Task
