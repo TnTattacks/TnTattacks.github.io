@@ -10,19 +10,19 @@ tntmiscs: JncpN2t1Gzg
 
 ### Reference
 ```
-Doan, B.G., Xue, M., Ma, S., Abbasnejad, E. and Ranasinghe, D.C., 2021. TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems. arXiv preprint arXiv:2111.09999.
+B. G. Doan, M. Xue, S. Ma, E. Abbasnejad and D. C. Ranasinghe, "TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems," in IEEE Transactions on Information Forensics and Security, 2022, doi: 10.1109/TIFS.2022.3198857.
 ```
 
 Link to the research paper: [TnTattacks](https://arxiv.org/abs/2111.09999) 
 
 ### Bibtex
 ```
-@article{doan2021tnt,
-  title={TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems},
-  author={Doan, Bao Gia and Xue, Minhui and Ma, Shiqing and Abbasnejad, Ehsan and Ranasinghe, Damith C},
-  journal={arXiv preprint arXiv:2111.09999},
-  year={2021}
-}
+@ARTICLE{9856683,
+  author={Doan, Bao Gia and Xue, Minhui and Ma, Shiqing and Abbasnejad, Ehsan and Ranasinghe, Damith C.},  
+  journal={IEEE Transactions on Information Forensics and Security},   
+  title={TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems},   
+  year={2022},  
+  doi={10.1109/TIFS.2022.3198857}}
 ```
 
 # Physical World Deployment Demonstration Videos
