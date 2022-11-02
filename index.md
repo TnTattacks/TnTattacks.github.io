@@ -18,10 +18,12 @@ Link to the research paper: [TnTattacks](https://arxiv.org/abs/2111.09999)
 ### Bibtex
 ```
 @ARTICLE{9856683,
-  author={Doan, Bao Gia and Xue, Minhui and Ma, Shiqing and Abbasnejad, Ehsan and Ranasinghe, Damith C.},  
-  journal={IEEE Transactions on Information Forensics and Security},   
-  title={TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems},   
-  year={2022},  
+  author={Doan, Bao Gia and Xue, Minhui and Ma, Shiqing and Abbasnejad, Ehsan and C. Ranasinghe, Damith},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems}, 
+  year={2022},
+  volume={17},
+  pages={3816-3830},
   doi={10.1109/TIFS.2022.3198857}}
 ```
 
